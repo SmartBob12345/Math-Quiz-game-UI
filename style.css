@@ -1,0 +1,41 @@
+.login1
+{
+    background-color: skyblue;
+    padding: 30px;
+    float: none;
+    border-radius: 15px;
+}
+.login2{
+    background-color: crimson;
+    padding: 30px;
+    float: none;
+    border-radius: 15px;
+}
+#player1_name , #player2_name
+{
+display: inline-block;
+margin-left: 20px;
+}
+#word
+{
+width: 60%;
+}
+#word_display
+{
+letter-spacing: 5px;
+}
+#output
+{
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+body{
+    text-align: center;
+    background-image: "math.jpeg";
+}
+#button{
+    border-radius: 15px;
+}
